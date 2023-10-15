@@ -1,7 +1,7 @@
 # WASD
 A module for Python, to easily connect and utilize WASD streamer data. 
 
-![WASD]([https://i.postimg.cc/KjZX2gnf/Github-Vk-Play-Live.png](https://i.postimg.cc/GtkJsZMH/WASD.png))
+![WASD]([https://i.postimg.cc/GtkJsZMH/WASD.png])
 
 Features:
 Channel Information: Connects to WASD to retrieve information about channels.
